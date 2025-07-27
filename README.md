@@ -20,7 +20,7 @@
 ## ❖ Fragmentos da Realidade
 > *“O que é realidade senão uma ilusão persistente?”*
 > 
-![JJJjjjjdDDD](https://github.com/user-attachments/assets/7eea033c-c642-4979-a569-ce099f0e719b)
+      ![JJJjjjjdDDD](https://github.com/user-attachments/assets/7eea033c-c642-4979-a569-ce099f0e719b)
 > 
 ![f295590c9115eededd8866b21c8dcd1b](https://github.com/user-attachments/assets/6366fdd6-eb9b-41ee-9e34-3f6345cdd83c)
 
