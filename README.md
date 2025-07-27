@@ -21,10 +21,8 @@
 > *“O que é realidade senão uma ilusão persistente?”*
  
 >
-![Uploading images.steamusercontent.gif…]()
 
-
-
+![images steamusercontent](https://github.com/user-attachments/assets/c4bc623d-c2f8-4150-ba75-8e3f32fb8475)
 
 
 
