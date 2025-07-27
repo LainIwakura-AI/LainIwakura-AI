@@ -24,9 +24,10 @@
 ### 📊 Stats (em breve):
 
 > Em construção... 🏗️
-
 <p align="center">
-  <img src="https://cdn.fbsbx.com/v/t59.2708-21/524292333_1084053566520888_690917348501301891_n.gif?_nc_cat=104&ccb=1-7&_nc_sid=66e727&_nc_ohc=NrURC4H3kB0Q7kNvwFC0Q85&_nc_oc=AdnUEbCFcbU1yFizp1SDFdIjEi43XHtVjWRNW3WlNKVeSRz5IdsdgCsD8r8nuZl9UaJ3OmP_ocT3XXy2OUb3_cXp&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=2-BNmsHlrdAWpws1I03r3g&oh=03_Q7cD2wHUxXzQOuzPs-vNUJhLwR0Qi5WKb3AJHrVO5eoJKgsd0A&oe=68875FB6" width="350"/>
+  <img src="GIF1_URL" width="300"/>
+  <img src="GIF2_URL" width="300"/>
+  <img src="GIF3_URL" width="300"/>
 </p>
 
 ---
