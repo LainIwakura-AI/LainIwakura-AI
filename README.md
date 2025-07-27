@@ -20,9 +20,8 @@
 ## ❖ Fragmentos da Realidade
 > *“O que é realidade senão uma ilusão persistente?”*
  
-> 
-![f295590c9115eededd8866b21c8dcd1b](https://github.com/user-attachments/assets/6366fdd6-eb9b-41ee-9e34-3f6345cdd83c)
-
+>
+![Uploading images.steamusercontent.gif…]()
 
 
 
@@ -37,7 +36,9 @@
 
 ## ❖ Silêncio das Máquinas
 > *“Mesmo desligadas, elas ouvem.”*
-![images steamusercontent](https://github.com/user-attachments/assets/85cec3c2-a69c-481c-a9b6-a25d1b903de1)
+>
+![f295590c9115eededd8866b21c8dcd1b](https://github.com/user-attachments/assets/6366fdd6-eb9b-41ee-9e34-3f6345cdd83c)
+
 
 
 
